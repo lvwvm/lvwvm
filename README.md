@@ -1,9 +1,10 @@
-### Hi there 👋
+### :wave-tone5:
 
-<!--
-**1uwum/1uwum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Hello! I am Idigo, here you will find all of the code, ideas, and art
+    I wish to share with the world. I look forward to reading your thoughts and
+    collaborating towards building a better future. :earth:
 
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
